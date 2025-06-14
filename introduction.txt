@@ -1,0 +1,3 @@
+Brief Introduction About Myself
+My name is Amir, and I am passionate about computer science and learning GitHub.
+I enjoy coding and look forward to collaborating on projects.
